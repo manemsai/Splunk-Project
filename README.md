@@ -1,14 +1,14 @@
 # Splunk-Project
 
-Project Title Overview This project leverages Splunk to analyze and visualize login data. The dataset includes information such as login timestamps, user IDs, IP addresses, and various device details.
+This project leverages Splunk to analyze and visualize login data. The dataset includes login timestamps, user IDs, IP addresses, and device details.
 
 Prerequisites Before you begin, ensure you have the following installed:
 
 Splunk: Download and Install Splunk Dataset: https://www.kaggle.com/datasets/dasgroup/rba-dataset
 
-[Optional] Replace the sample data with your own dataset.
+[Optional] Replace the sample data with your dataset.
 
-Usage Start Splunk and ensure it's running.
+Usage Start Splunk and make sure it's running.
 
 Upload the sample data or your dataset into Splunk.
 
